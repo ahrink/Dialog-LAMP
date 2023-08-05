@@ -42,6 +42,11 @@ RE: kylin-desktop
 # 2. keep var tFle until successful install
 # 3. work on tool-kit eg BIND DNS https://linuxconfig.org/linux-dns-server-bind-configuration
 # 4. etc…
+# 5. # asof="20230805"
+# added simAHR.sh
+# https://github.com/ahrink/stamp
+# Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
+# https://github.com/ahrink/Praevisio-Installer
 
 Some references to start with:
 - apache2/jammy-updates 2.4.52-1ubuntu4.5 amd64 Apache HTTP Server
