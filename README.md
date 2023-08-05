@@ -18,6 +18,9 @@ REM: fresh install:  Ubuntu 20.04.1 and kylin-desktop
 
 RE: kylin-desktop
 # sudo passwd root # set root user
+# read this 1st
+https://github.com/ahrink/Ubuntu-Kylin-23.04
+# ...
 # apt install ubuntukylin-desktop
 
 # press ok → select lghtdm
